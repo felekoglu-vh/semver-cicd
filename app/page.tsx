@@ -19,6 +19,9 @@ export default function Home() {
             </code>
             fix #1
             feat #1
+            feat #2
+            fix #2
+            fix #3
           </li>
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
