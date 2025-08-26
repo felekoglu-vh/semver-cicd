@@ -1,3 +1,10 @@
+# [1.0.0-dev.2](https://github.com/felekoglu-vh/semver-cicd/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2025-08-26)
+
+
+### Bug Fixes
+
+* remove duplicate test text in the home page component ([52a5697](https://github.com/felekoglu-vh/semver-cicd/commit/52a56974491d9524ea01005e77000e85135db064))
+
 # 1.0.0-dev.1 (2025-08-26)
 
 
