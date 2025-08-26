@@ -1,3 +1,16 @@
+# [1.1.0-next.2](https://github.com/felekoglu-vh/semver-cicd/compare/v1.1.0-next.1...v1.1.0-next.2) (2025-08-26)
+
+
+### Bug Fixes
+
+* fix [#2](https://github.com/felekoglu-vh/semver-cicd/issues/2) ([fed8580](https://github.com/felekoglu-vh/semver-cicd/commit/fed8580d4f0b0a5a8fb969c3a4019a1200b8711c))
+* fix [#3](https://github.com/felekoglu-vh/semver-cicd/issues/3) ([9e54e03](https://github.com/felekoglu-vh/semver-cicd/commit/9e54e03fa38b3c3d49bf0774d8d9459940b1c933))
+
+
+### Features
+
+* feat [#2](https://github.com/felekoglu-vh/semver-cicd/issues/2) ([1c1950e](https://github.com/felekoglu-vh/semver-cicd/commit/1c1950eacebaaafb41c41104985c5f9fecc4c127))
+
 # [1.1.0-next.1](https://github.com/felekoglu-vh/semver-cicd/compare/v1.0.1...v1.1.0-next.1) (2025-08-26)
 
 
