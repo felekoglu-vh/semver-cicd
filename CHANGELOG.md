@@ -1,3 +1,10 @@
+# [1.0.0-dev.3](https://github.com/felekoglu-vh/semver-cicd/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2025-08-26)
+
+
+### Features
+
+* add missing test feat text in the home page component ([f7d59fb](https://github.com/felekoglu-vh/semver-cicd/commit/f7d59fb25a27100b32b209d8c520cd784630a599))
+
 # [1.0.0-dev.2](https://github.com/felekoglu-vh/semver-cicd/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2025-08-26)
 
 
