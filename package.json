@@ -1,6 +1,6 @@
 {
   "name": "semver-cicd",
-  "version": "1.0.0-dev.2",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
