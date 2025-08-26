@@ -1,5 +1,14 @@
 {
-  "branches": ["prod"],
+  "branches": [
+    {
+      "name": "prod",
+      "prerelease": false
+    },
+    {
+      "name": "main",
+      "prerelease": true
+    }
+  ],
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
