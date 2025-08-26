@@ -1,3 +1,10 @@
+# [1.0.0-dev.2](https://github.com/felekoglu-vh/semver-cicd/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2025-08-26)
+
+
+### Bug Fixes
+
+* address issue [#1](https://github.com/felekoglu-vh/semver-cicd/issues/1) in app/page.tsx ([b0218e3](https://github.com/felekoglu-vh/semver-cicd/commit/b0218e38b13cf8644c563809aad4e05484a1ebc8))
+
 # 1.0.0-dev.1 (2025-08-26)
 
 
