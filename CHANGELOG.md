@@ -1,3 +1,15 @@
+# [0.2.0](https://github.com/felekoglu-vh/semver-cicd/compare/v0.1.0...v0.2.0) (2025-08-26)
+
+
+### Bug Fixes
+
+* simplify 'next' branch configuration by removing 'prerelease' property ([ba54921](https://github.com/felekoglu-vh/semver-cicd/commit/ba54921a7860b76d91c86e2c626be35c853c1f3a))
+
+
+### Features
+
+* test ([cc193e5](https://github.com/felekoglu-vh/semver-cicd/commit/cc193e5cc260e5f1aded9152f2cdba530fd8c464))
+
 # 1.0.0 (2025-08-26)
 
 
