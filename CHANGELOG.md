@@ -1,3 +1,10 @@
+# [1.1.0-next.1](https://github.com/felekoglu-vh/semver-cicd/compare/v1.0.1...v1.1.0-next.1) (2025-08-26)
+
+
+### Features
+
+* feat[#1](https://github.com/felekoglu-vh/semver-cicd/issues/1) ([c6e5add](https://github.com/felekoglu-vh/semver-cicd/commit/c6e5add7128634600c181f104a6c3a2a30112e21))
+
 ## [1.0.1](https://github.com/felekoglu-vh/semver-cicd/compare/v1.0.0...v1.0.1) (2025-08-26)
 
 
