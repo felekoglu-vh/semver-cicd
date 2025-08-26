@@ -1,3 +1,11 @@
+## [0.3.1](https://github.com/felekoglu-vh/semver-cicd/compare/v0.3.0...v0.3.1) (2025-08-26)
+
+
+### Bug Fixes
+
+* fix ([88b3843](https://github.com/felekoglu-vh/semver-cicd/commit/88b38433eab623551d17cbd16ebb3eb8439da07b))
+* fix ([7bb7de8](https://github.com/felekoglu-vh/semver-cicd/commit/7bb7de836844fe6d9773c87227b2836da37fad06))
+
 # [0.3.0](https://github.com/felekoglu-vh/semver-cicd/compare/v0.2.0...v0.3.0) (2025-08-26)
 
 
