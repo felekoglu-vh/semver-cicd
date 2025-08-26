@@ -18,6 +18,7 @@ export default function Home() {
               app/page.tsx
             </code>
             fix #1
+            feat #1
           </li>
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
